@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4(1)ForOOP</string>
+    <string name="NewGame">New Game</string>
+    <string name="Continue">Continue</string>
+    <string name="Options">Options</string>
+    <string name="About">About</string>
+</resources>
